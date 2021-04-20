@@ -1,5 +1,7 @@
 # Code Coverage Lab
 
+[![codecov](https://codecov.io/gh/calebfung/code-coverage/branch/main/graph/badge.svg?token=Q2VNQ92FPD)](https://codecov.io/gh/calebfung/code-coverage)
+
 ## Prerequisites
 
 1. Install Java 11
